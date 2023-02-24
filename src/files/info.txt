@@ -1,0 +1,5 @@
+So Far Learned....
+this is the information about Python. 
+its a easy to learn language campare to Java. 
+Variables. 
+Objects. 
